@@ -5,3 +5,11 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/Hussein2112/husseintest.git
 git push -u origin master
+#
+#
+#
+
+git push https://github.com/Hussein2112/atlanta.git master
+hussein.abdirahman14@gmail.com
+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
+git log --graph --pretty=onelone
